@@ -1,0 +1,41 @@
+,Operator,Week,DateOfSurvey,ReleaseID,SurveyStartTime,SurveyEndTime,QuantifiedPlume,EstimatedEmissionRate,EstimatedEmissionRateUpper,EstimatedEmissionRateLower,UncertaintyType,OperatorWindspeed,QCFLag,OperatorKeep,StanfordKeep,StrictQCKeep
+0,Flylogix,4,Monday 9/16,1,,,False,,,,,,Setting up,False,False,False
+1,Flylogix,4,Monday 9/16,2,,,False,,,,,,Setting up,False,False,False
+2,Flylogix,4,Monday 9/16,3,,,False,,,,,,Setting up,False,False,False
+3,Flylogix,4,Monday 9/16,4,,,False,,,,,,Setting up,False,False,False
+4,Flylogix,4,Monday 9/16,5,,,False,,,,,,Setting up,False,False,False
+5,Flylogix,4,Monday 9/16,6,,,False,,,,,,Setting up,False,False,False
+6,Flylogix,4,Tuesday 9/17,7,09:26:00,09:41:00,True,0.3,2.2,0.0,3-sigma,1.0,,True,True,True
+7,Flylogix,4,Tuesday 9/17,8,10:22:00,10:36:00,True,1.7,7.5,0.0,3-sigma,0.8,,True,True,True
+8,Flylogix,4,Tuesday 9/17,9,,,False,,,,,,Charging,False,False,False
+9,Flylogix,4,Tuesday 9/17,10,,,False,,,,,,Charging,False,False,False
+10,Flylogix,4,Tuesday 9/17,11,13:10:00,13:31:00,True,0.0,0.3,0.0,3-sigma,1.4,,True,True,True
+11,Flylogix,4,Tuesday 9/17,12,14:15:00,14:31:00,True,10.3,23.9,0.0,3-sigma,1.0,,True,True,True
+12,Flylogix,4,Tuesday 9/17,13,15:29:00,15:38:00,True,0.0,0.4,0.0,3-sigma,1.0,,True,True,True
+13,Flylogix,4,Tuesday 9/17,14,,,False,,,,,,Charging,False,False,False
+14,Flylogix,4,Wednesday 9/18,15,09:23:00,09:39:00,True,0.3,2.3,0.0,3-sigma,1.0,,True,True,True
+15,Flylogix,4,Wednesday 9/18,16,10:11:00,10:27:00,True,17.7,42.8,0.0,3-sigma,0.6,,True,True,True
+16,Flylogix,4,Wednesday 9/18,17,,,False,,,,,,Charging,False,False,False
+17,Flylogix,4,Wednesday 9/18,18,11:48:00,12:06:00,True,38.6,60.8,16.4,3-sigma,1.0,,True,True,True
+18,Flylogix,4,Wednesday 9/18,19,13:15:00,13:28:00,True,0.0,0.9,0.0,3-sigma,1.1,,True,True,True
+19,Flylogix,4,Wednesday 9/18,20,,,False,,,,,,Charging,False,False,False
+20,Flylogix,4,Wednesday 9/18,21,14:43:00,15:01:00,True,0.1,0.9,0.0,3-sigma,1.8,,True,True,True
+21,Flylogix,4,Wednesday 9/18,22,15:44:00,16:01:00,True,171.9,201.1,142.7,3-sigma,1.6,,True,True,True
+22,Flylogix,4,Wednesday 9/18,23,16:44:00,17:02:00,True,0.1,1.0,0.0,3-sigma,1.5,,True,True,True
+23,Flylogix,4,Thursday 9/19,24,08:48:00,09:08:00,True,12.4,26.0,0.0,3-sigma,0.9,,True,True,True
+24,Flylogix,4,Thursday 9/19,25,09:51:00,10:08:00,True,0.7,5.4,0.0,3-sigma,0.7,,True,True,True
+25,Flylogix,4,Thursday 9/19,26,,,False,,,,,,Hosting VIPs and charging,False,False,False
+26,Flylogix,4,Thursday 9/19,27,,,False,,,,,,Hosting VIPs and charging,False,False,False
+27,Flylogix,4,Thursday 9/19,28,12:54:00,13:12:00,True,11.3,25.4,0.0,3-sigma,0.9,,True,True,True
+28,Flylogix,4,Thursday 9/19,29,13:49:00,14:07:00,True,1.1,3.4,0.0,3-sigma,1.7,,True,True,True
+29,Flylogix,4,Thursday 9/19,30,,,False,,,,,,Charging,False,False,False
+30,Flylogix,4,Thursday 9/19,31,15:55:00,16:12:00,True,2.9,5.5,0.0,3-sigma,1.8,,True,True,True
+31,Flylogix,4,Thursday 9/19,32,17:01:00,17:18:00,True,5.6,8.6,2.6,3-sigma,2.9,,True,True,True
+32,Flylogix,4,Friday 9/20,33,,,False,,,,,,Demobilised for other commitments,False,False,False
+33,Flylogix,4,Friday 9/20,34,,,False,,,,,,Demobilised for other commitments,False,False,False
+34,Flylogix,4,Friday 9/20,35,,,False,,,,,,Demobilised for other commitments,False,False,False
+35,Flylogix,4,Friday 9/20,36,,,False,,,,,,Demobilised for other commitments,False,False,False
+36,Flylogix,4,Friday 9/20,37,,,False,,,,,,Demobilised for other commitments,False,False,False
+37,Flylogix,4,Friday 9/20,38,,,False,,,,,,Demobilised for other commitments,False,False,False
+38,Flylogix,4,Friday 9/20,39,,,False,,,,,,Demobilised for other commitments,False,False,False
+39,Flylogix,4,Friday 9/20,40,,,False,,,,,,Demobilised for other commitments,False,False,False

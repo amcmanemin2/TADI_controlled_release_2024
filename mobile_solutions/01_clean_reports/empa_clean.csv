@@ -1,0 +1,41 @@
+,Operator,Week,DateOfSurvey,ReleaseID,SurveyStartTime,SurveyEndTime,QuantifiedPlume,EstimatedEmissionRate,EstimatedEmissionRateUpper,EstimatedEmissionRateLower,UncertaintyType,OperatorWindspeed,QCFLag,OperatorKeep,StanfordKeep,StrictQCKeep
+0,EMPA,4,Monday 9/16,1,11:00:00,11:46:00,False,0.0,0.0,0.0,,,no plume visible,False,True,True
+1,EMPA,4,Monday 9/16,2,12:02:30,12:47:34,True,40.6836019024949,52.6289207924619,28.7382830125279,+/- 1 SD,1.41092004492946,,True,True,True
+2,EMPA,4,Monday 9/16,3,13:02:25,13:45:09,True,15.3836803110501,20.11512101632973,10.652239605770468,+/- 1 SD,1.68887401375751,,True,True,True
+3,EMPA,4,Monday 9/16,4,13:59:00,14:46:00,False,,,,,,aircraft refuelling,False,False,False
+4,EMPA,4,Monday 9/16,5,15:30:45,15:43:50,True,25.7201499533843,31.05097155428517,20.38932835248343,+/- 1 SD,2.11661982082583,,True,True,True
+5,EMPA,4,Monday 9/16,6,15:59:00,16:45:00,False,0.0,0.0,0.0,,,no plume visible,False,True,True
+6,EMPA,4,Tuesday 9/17,7,09:00:00,09:46:00,False,,,,,,bad weather (fog),False,False,False
+7,EMPA,4,Tuesday 9/17,8,09:59:00,10:46:00,False,,,,,,bad weather (fog),False,False,False
+8,EMPA,4,Tuesday 9/17,9,10:59:00,11:50:00,False,,,,,,bad weather (fog),False,False,False
+9,EMPA,4,Tuesday 9/17,10,12:37:34,12:49:29,True,17.4301395600557,21.325195863296848,13.53508325681455,+/- 1 SD,2.20162222484363,,True,True,True
+10,EMPA,4,Tuesday 9/17,11,13:00:00,13:46:00,False,0.0,0.0,0.0,,,cloud shadow over site => no plume detected,False,False,True
+11,EMPA,4,Tuesday 9/17,12,13:58:00,14:45:00,False,,,,,,bad weather (clouds),False,False,False
+12,EMPA,4,Tuesday 9/17,13,14:58:00,15:44:00,False,,,,,,bad weather (clouds),False,False,False
+13,EMPA,4,Tuesday 9/17,14,15:57:00,16:45:00,False,,,,,,bad weather (clouds),False,False,False
+14,EMPA,4,Wednesday 9/18,15,08:51:00,09:37:00,False,,,,,,bad weather (fog),False,False,False
+15,EMPA,4,Wednesday 9/18,16,09:44:00,10:31:00,False,,,,,,bad weather (fog),False,False,False
+16,EMPA,4,Wednesday 9/18,17,10:45:00,11:31:00,False,0.0,0.0,0.0,,,no plume visible,False,True,True
+17,EMPA,4,Wednesday 9/18,18,11:47:30,12:32:41,True,16.04999,30.989129000000002,1.1108510000000003,+/- 1 SD,0.469744,,True,True,True
+18,EMPA,4,Wednesday 9/18,19,12:45:00,13:25:00,False,0.0,0.0,0.0,,,no plume visible,False,True,True
+19,EMPA,4,Wednesday 9/18,20,13:53:13,13:58:39,True,1.60841236132621,3.3961439741503803,0.0,+/- 1 SD,0.414685188629668,,True,True,True
+20,EMPA,4,Wednesday 9/18,21,14:29:00,15:16:00,False,,,,,,aircraft refuelling,False,False,False
+21,EMPA,4,Wednesday 9/18,22,15:33:06,16:13:50,True,104.850587,150.182108,59.519066,+/- 1 SD,0.940717,,True,True,True
+22,EMPA,4,Wednesday 9/18,23,16:31:00,17:19:00,False,0.0,0.0,0.0,,,no plume visible,False,True,True
+23,EMPA,4,Thursday 9/19,24,08:45:00,09:33:00,False,,,,,,"bad weather (fog, clouds)",False,False,False
+24,EMPA,4,Thursday 9/19,25,09:45:00,10:31:00,False,,,,,,"bad weather (fog, clouds)",False,False,False
+25,EMPA,4,Thursday 9/19,26,10:44:00,11:32:00,False,,,,,,bad weather (clouds),False,False,False
+26,EMPA,4,Thursday 9/19,27,11:44:00,12:31:00,False,,,,,,bad weather (clouds),False,False,False
+27,EMPA,4,Thursday 9/19,28,12:44:00,13:32:00,False,,,,,,bad weather (clouds),False,False,False
+28,EMPA,4,Thursday 9/19,29,13:46:00,14:34:00,False,,,,,,bad weather (clouds),False,False,False
+29,EMPA,4,Thursday 9/19,30,14:47:45,15:29:29,True,85.0621934513442,107.0740969587574,63.050289943931,+/- 1 SD,2.06341380542067,,True,True,True
+30,EMPA,4,Thursday 9/19,31,15:44:00,16:34:00,False,0.0,0.0,0.0,,,no plume visible,False,True,True
+31,EMPA,4,Thursday 9/19,32,16:46:59,17:28:50,True,27.6828028858333,35.65609219750631,19.70951357416029,+/- 1 SD,2.27015712353363,,True,True,True
+32,EMPA,4,Friday 9/20,33,08:45:00,09:31:00,False,,,,,,"bad weather (clouds, rain)",False,False,False
+33,EMPA,4,Friday 9/20,34,09:45:00,10:34:00,False,,,,,,"bad weather (clouds, rain)",False,False,False
+34,EMPA,4,Friday 9/20,35,10:45:00,11:34:00,False,,,,,,"bad weather (clouds, rain)",False,False,False
+35,EMPA,4,Friday 9/20,36,11:46:00,12:33:00,False,,,,,,"bad weather (clouds, rain)",False,False,False
+36,EMPA,4,Friday 9/20,37,12:47:00,13:33:00,False,,,,,,"bad weather (clouds, rain)",False,False,False
+37,EMPA,4,Friday 9/20,38,13:51:00,14:30:00,False,,,,,,"bad weather (clouds, rain)",False,False,False
+38,EMPA,4,Friday 9/20,39,14:32:00,15:32:00,False,,,,,,"bad weather (clouds, rain)",False,False,False
+39,EMPA,4,Friday 9/20,40,15:32:00,16:42:00,False,,,,,,"bad weather (clouds, rain)",False,False,False

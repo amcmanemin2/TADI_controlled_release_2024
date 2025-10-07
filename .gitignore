@@ -1,0 +1,51 @@
+# Release Data folders - confidential data
+release_data/Release Data - J1/
+release_data/Release Data - J2/
+release_data/Release Data - S1/
+release_data/Release Data - S2/
+
+# Additional data from participants - confidential data
+additional data from participants/
+EAO_presentation_01172025.ipynb
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# iCloud files
+*.icloud
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp 

@@ -1,0 +1,78 @@
+Operator,Week,DateOfSurvey,ReleaseID,WeeklyReleaseID,SurveyStartTime,SurveyEndTime,QuantifiedPlume,EstimatedEmissionRate,EstimatedEmissionRateUpper,EstimatedEmissionRateLower,UncertaintyType,OperatorWindspeed,QCFLag,OperatorKeep,StanfordKeep,StrictQCKeep
+Sensia,3,2024-09-09,1,1,,,,,,,,,,False,False,False
+Sensia,3,2024-09-09,2,2,,,,,,,,,,False,False,False
+Sensia,3,2024-09-09,3,3,13:30:00,13:45:00,True,3.2,4.932,1.468,"""+/-""",,,True,True,True
+Sensia,3,2024-09-09,4,4,14:37:00,15:15:00,True,0.0,0.0,0.0,-,,,True,True,True
+Sensia,3,2024-09-10,5,5,15:25:00,16:15:00,True,2.6,4.358,0.842,"""+/-""",,,True,True,True
+Sensia,3,2024-09-10,6,6,16:42:00,17:37:00,True,8.203,11.167,5.239,"""+/-""",,,True,True,True
+Sensia,3,2024-09-10,7,7,08:45:00,09:31:00,True,1.554,2.548,0.56,"""+/-""",,,True,True,True
+Sensia,3,2024-09-10,8,8,09:45:00,10:31:00,True,5.879,8.888,2.87,"""+/-""",,,True,True,True
+Sensia,3,2024-09-10,9,9,10:40:00,11:26:00,True,63.102,79.163,47.041,"""+/-""",,,True,True,True
+Sensia,3,2024-09-10,10,10,11:45:00,12:31:00,True,47.99,68.022,27.958,"""+/-""",,,True,True,True
+Sensia,3,2024-09-10,11,11,12:45:00,13:36:00,True,12.565,17.521,7.609,"""+/-""",,,True,True,True
+Sensia,3,2024-09-10,12,12,13:44:00,14:30:00,True,3.759,5.159,2.359,"""+/-""",,,True,True,True
+Sensia,3,2024-09-10,13,13,14:44:00,15:30:00,True,38.598,57.345,19.851,"""+/-""",,,True,True,True
+Sensia,3,2024-09-11,14,14,15:44:00,16:30:00,True,6.75,9.56,3.94,"""+/-""",,Quantification data not confident due to line of sight not allowing for full visualization of the leak ,True,True,True
+Sensia,3,2024-09-11,15,15,16:46:00,17:36:00,True,2.946,4.49,1.402,"""+/-""",,,True,True,True
+Sensia,3,2024-09-11,16,16,08:36:00,09:22:00,True,42.397,62.853,21.941,"""+/-""",,,True,True,True
+Sensia,3,2024-09-11,17,17,09:35:00,10:20:00,True,71.778,92.082,51.474,"""+/-""",,,True,True,True
+Sensia,3,2024-09-11,18,18,10:38:00,11:25:00,True,3.904,4.71,3.098,"""+/-""",,,True,True,True
+Sensia,3,2024-09-11,19,19,11:34:00,12:22:00,True,19.469,24.312,14.626,"""+/-""",,,True,True,True
+Sensia,3,2024-09-11,20,20,12:35:00,13:25:00,True,0.0,0.0,0.0,-,,,True,True,True
+Sensia,3,2024-09-11,21,21,13:34:00,14:22:00,True,2.598,3.907,1.289,"""+/-""",,,True,True,True
+Sensia,3,2024-09-11,22,22,14:34:00,15:20:00,True,2.614,4.351,0.877,"""+/-""",,Quantification data not confident due to line of sight not allowing for full visualization of the leak ,True,True,True
+Sensia,3,2024-09-12,23,23,15:34:00,16:22:00,True,59.344,80.228,38.46,"""+/-""",,,True,True,True
+Sensia,3,2024-09-12,24,24,16:34:00,17:19:00,True,44.784,59.275,30.293,"""+/-""",,,True,True,True
+Sensia,3,2024-09-12,25,25,09:16:00,10:02:00,True,7.319,10.652,3.986,"""+/-""",,,True,True,True
+Sensia,3,2024-09-12,26,26,10:06:00,10:54:00,True,13.179,22.159,4.199,"""+/-""",,,True,True,True
+Sensia,3,2024-09-12,27,27,11:07:00,11:55:00,True,10.143,14.017,6.269,"""+/-""",,,True,True,True
+Sensia,3,2024-09-12,28,28,12:00:00,12:50:00,True,100.528,127.977,73.079,"""+/-""",,,True,True,True
+Sensia,3,2024-09-12,29,29,13:28:00,14:15:00,True,119.056,167.245,70.867,"""+/-""",,,True,True,True
+Sensia,3,2024-09-12,30,30,14:33:00,15:17:00,True,2.706,4.413,0.999,"""+/-""",,,True,True,True
+Sensia,3,2024-09-13,31,31,15:28:00,16:15:00,True,236.2,299.3,173.1,"""+/-""",,,True,True,True
+Sensia,3,2024-09-13,32,32,16:30:00,17:15:00,True,39.641,56.863,22.419,"""+/-""",,,True,True,True
+Sensia,3,2024-09-13,33,33,08:45:00,09:30:00,True,0.0,0.0,0.0,-,,,True,True,True
+Sensia,3,2024-09-13,34,34,09:43:00,10:35:00,True,7.996,10.96,5.032,"""+/-""",,,True,True,True
+Sensia,3,2024-09-13,35,35,10:45:00,11:31:00,True,2.307,3.899,0.715,"""+/-""",,Quantification data not confident due to line of sight not allowing for full visualization of the leak ,True,True,True
+Sensia,3,2024-09-16,36,36,11:45:00,12:35:00,True,468.1,543.7,392.5,"""+/-""",,,True,True,True
+Sensia,3,2024-09-16,37,37,12:45:00,13:34:00,True,8.473,10.214,6.732,"""+/-""",,,True,True,True
+Sensia,4,2024-09-16,38,1,11:01:00,11:36:00,True,2.801,4.582,1.02,"""+/-""",,Quantification data not confident due to line of sight not allowing for full visualization of the leak ,True,True,True
+Sensia,4,2024-09-16,39,2,12:01:00,12:47:00,True,93.405,122.492,64.318,"""+/-""",,,True,True,True
+Sensia,4,2024-09-16,40,3,13:00:00,13:45:00,True,12.78,18.202,7.358,"""+/-""",,,True,True,True
+Sensia,4,2024-09-16,41,4,14:00:00,14:46:00,True,44.61,63.589,25.631,"""+/-""",,,True,True,True
+Sensia,4,2024-09-17,42,5,15:00:00,15:45:00,True,53.887,76.07,31.704,"""+/-""",,,True,True,True
+Sensia,4,2024-09-17,43,6,16:00:00,16:45:00,True,5.818,9.575,2.061,"""+/-""",,,True,True,True
+Sensia,4,2024-09-17,44,7,09:00:00,09:46:00,True,2.641,4.558,0.724,"""+/-""",,,True,True,True
+Sensia,4,2024-09-17,45,8,10:00:00,10:46:00,True,14.791,22.561,7.021,"""+/-""",,,True,True,True
+Sensia,4,2024-09-17,46,9,11:00:00,11:50:00,True,81.861,104.794,58.928,"""+/-""",,,True,True,True
+Sensia,4,2024-09-17,47,10,12:00:00,12:49:00,True,2.903,4.251,1.555,"""+/-""",,Quantification data not confident due to line of sight not allowing for full visualization of the leak ,True,True,True
+Sensia,4,2024-09-17,48,11,13:00:00,13:46:00,True,0.0,0.0,0.0,-,,,True,True,True
+Sensia,4,2024-09-17,49,12,14:00:00,14:45:00,True,71.413,100.193,42.633,"""+/-""",,,True,True,True
+Sensia,4,2024-09-18,50,13,14:58:00,15:44:00,True,0.276,0.521,0.031,"""+/-""",,,True,True,True
+Sensia,4,2024-09-18,51,14,15:57:00,16:45:00,True,65.097,78.496,51.698,"""+/-""",,,True,True,True
+Sensia,4,2024-09-18,52,15,08:52:00,09:37:00,True,0.771,1.104,0.438,"""+/-""",,,True,True,True
+Sensia,4,2024-09-18,53,16,09:45:00,10:31:00,True,55.039,79.49,30.588,"""+/-""",,,True,True,True
+Sensia,4,2024-09-18,54,17,10:45:00,11:31:00,True,14.796,18.323,11.269,"""+/-""",,,True,True,True
+Sensia,4,2024-09-18,55,18,11:44:00,12:30:00,True,45.989,67.237,24.741,"""+/-""",,,True,True,True
+Sensia,4,2024-09-18,56,19,12:45:00,13:26:00,True,1.424,2.613,0.235,"""+/-""",,,True,True,True
+Sensia,4,2024-09-18,57,20,13:33:00,14:16:00,True,19.498,24.726,14.27,"""+/-""",,,True,True,True
+Sensia,4,2024-09-18,58,21,14:29:00,15:15:00,True,1.621,2.367,0.875,"""+/-""",,Quantification data not confident due to line of sight not allowing for full visualization of the leak ,True,True,True
+Sensia,4,2024-09-19,59,22,15:30:00,16:17:00,True,218.29,266.34,170.24,"""+/-""",,,True,True,True
+Sensia,4,2024-09-19,60,23,16:33:00,17:19:00,True,15.853,21.08,10.626,"""+/-""",,,True,True,True
+Sensia,4,2024-09-19,61,24,08:45:00,09:33:00,True,33.857,41.653,26.061,"""+/-""",,,True,True,True
+Sensia,4,2024-09-19,62,25,09:45:00,10:31:00,True,5.848,9.662,2.034,"""+/-""",,,True,True,True
+Sensia,4,2024-09-19,63,26,10:44:00,11:32:00,True,6.784,9.246,4.322,"""+/-""",,Quantification data not confident due to line of sight not allowing for full visualization of the leak ,True,True,True
+Sensia,4,2024-09-19,64,27,11:45:00,12:30:00,True,5.922,9.274,2.57,"""+/-""",,,True,True,True
+Sensia,4,2024-09-19,65,28,12:45:00,13:32:00,True,47.285,65.491,29.079,"""+/-""",,,True,True,True
+Sensia,4,2024-09-19,66,29,13:46:00,14:34:00,True,5.653,8.765,2.541,"""+/-""",,,True,True,True
+Sensia,4,2024-09-19,67,30,14:45:00,15:31:00,True,59.677,84.752,34.602,"""+/-""",,,True,True,True
+Sensia,4,2024-09-20,68,31,15:46:00,16:34:00,True,18.43,22.509,14.351,"""+/-""",,,True,True,True
+Sensia,4,2024-09-20,69,32,16:45:00,17:34:00,True,42.507,59.578,25.436,"""+/-""",,,True,True,True
+Sensia,4,2024-09-20,70,33,08:46:00,09:31:00,True,6.826,9.631,4.021,"""+/-""",,,True,True,True
+Sensia,4,2024-09-20,71,34,09:46:00,10:34:00,True,39.874,62.712,17.036,"""+/-""",,,True,True,True
+Sensia,4,,72,35,10:45:00,11:34:00,True,34.416,54.618,14.214,"""+/-""",,,True,True,True
+Sensia,4,,73,36,11:46:00,12:33:00,True,6.884,9.923,3.845,"""+/-""",,,True,True,True
+Sensia,4,,74,37,,,,,,,,,,False,False,False
+Sensia,4,,75,38,,,,,,,,,,False,False,False
+Sensia,4,,76,39,,,,,,,,,,False,False,False
+Sensia,4,,77,40,,,,,,,,,,False,False,False

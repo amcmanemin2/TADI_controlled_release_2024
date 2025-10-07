@@ -1,0 +1,36 @@
+,Operator,Week,DateOfSurvey,ReleaseID,SurveyStartTime,SurveyEndTime,QuantifiedPlume,EstimatedEmissionRate,EstimatedEmissionRateUpper,EstimatedEmissionRateLower,UncertaintyType,OperatorWindspeed,QCFLag,OperatorKeep,StanfordKeep,StrictQCKeep
+0,SeekOps,2,Monday 6/24,1,11:08:00,11:55:00,False,,,,,,UAV not in air during this timeframe.,False,False,False
+1,SeekOps,2,Monday 6/24,2,12:00:00,13:45:00,True,18.32,23.816000000000003,12.824,percent_0.30,,Totaled emission rate of 18.32,True,True,True
+2,SeekOps,2,Monday 6/24,3,13:01:00,13:45:00,False,,,,,,UAV not in air during this timeframe.,False,False,False
+3,SeekOps,2,Monday 6/24,4,14:01:00,14:48:00,True,0.68,0.8840000000000001,0.476,percent_0.30,,Totaled emission rate of 0.68,True,True,True
+4,SeekOps,2,Monday 6/24,5,15:01:00,15:53:00,True,12.25,15.925,8.575,percent_0.30,,Totaled emission rate of 12.25,True,True,True
+5,SeekOps,2,Monday 6/24,6,16:05:00,16:51:00,True,4.53,5.889,3.171,percent_0.30,,Totaled emission rate of 4.53,True,True,True
+6,SeekOps,2,Monday 6/24,7,17:00:00,17:49:00,True,13.43,17.459,9.401,percent_0.30,,Totaled emission rate of 13.43,True,True,True
+7,SeekOps,2,Tuesday 6/25,8,09:02:00,09:48:00,True,0.19,0.24700000000000003,0.13299999999999998,percent_0.30,,Totaled emission rate of 0.19,True,True,True
+8,SeekOps,2,Tuesday 6/25,9,10:03:00,10:49:00,True,0.24,0.312,0.16799999999999998,percent_0.30,,Totaled emission rate of 0.24,True,True,True
+9,SeekOps,2,Tuesday 6/25,10,11:05:00,11:51:00,True,4.46,5.798,3.122,percent_0.30,,Totaled emission rate of 4.46,True,True,True
+10,SeekOps,2,Tuesday 6/25,11,12:05:00,12:51:00,False,,,,,,UAV not in air during this timeframe.,False,False,False
+11,SeekOps,2,Tuesday 6/25,12,13:35:00,14:21:00,True,15.35,19.955000000000002,10.745,percent_0.30,,Totaled emission rate of 15.35,True,True,True
+12,SeekOps,2,Tuesday 6/25,13,14:35:00,15:22:00,True,7.06,9.177999999999999,4.941999999999999,percent_0.30,,Totaled emission rate of 7.06,True,True,True
+13,SeekOps,2,Tuesday 6/25,14,15:33:00,16:19:00,True,11.7,15.209999999999999,8.19,percent_0.30,,Totaled emission rate of 11.7,True,True,True
+14,SeekOps,2,Tuesday 6/25,15,16:35:00,17:33:00,True,0.83,1.079,0.581,percent_0.30,,Totaled emission rate of 0.83,True,True,True
+15,SeekOps,2,Wednesday 6/26,16,08:55:00,09:43:00,False,,,,,,UAV not in air during this timeframe.,False,False,False
+16,SeekOps,2,Wednesday 6/26,17,10:01:00,10:51:00,True,0.07,0.09100000000000001,0.049,percent_0.30,,Totaled emission rate of 0.07,True,True,True
+17,SeekOps,2,Wednesday 6/26,18,11:00:00,11:50:00,True,1.23,1.599,0.861,percent_0.30,,Totaled emission rate of 1.23,True,True,True
+18,SeekOps,2,Wednesday 6/26,19,13:03:00,13:51:00,True,0.35,0.45499999999999996,0.24499999999999997,percent_0.30,,Totaled emission rate of 0.35,True,True,True
+19,SeekOps,2,Wednesday 6/26,20,14:00:00,14:51:00,True,29.94,38.922000000000004,20.958,percent_0.30,,Totaled emission rate of 29.94,True,True,True
+20,SeekOps,2,Wednesday 6/26,21,15:01:00,15:49:00,True,3.19,4.147,2.2329999999999997,percent_0.30,,Totaled emission rate of 3.19,True,True,True
+21,SeekOps,2,Wednesday 6/26,22,16:03:00,16:50:00,True,0.09,0.11699999999999999,0.063,percent_0.30,,Totaled emission rate of 0.09,True,True,True
+22,SeekOps,2,Wednesday 6/26,23,17:01:00,17:47:00,True,0.08,0.10400000000000001,0.055999999999999994,percent_0.30,,Totaled emission rate of 0.08,True,True,True
+23,SeekOps,2,Thursday 6/27,25,09:03:00,09:46:00,True,14.22,18.486,9.954,percent_0.30,,Totaled emission rate of 14.22,True,True,True
+24,SeekOps,2,Thursday 6/27,26,10:06:00,10:55:00,True,16.16,21.008000000000003,11.312,percent_0.30,,Totaled emission rate of 16.16,True,True,True
+25,SeekOps,2,Thursday 6/27,27,11:06:00,11:56:00,True,0.55,0.7150000000000001,0.385,percent_0.30,,Totaled emission rate of 0.55,True,True,True
+26,SeekOps,2,Thursday 6/27,28,12:09:00,12:55:00,True,5.67,7.371,3.969,percent_0.30,,Totaled emission rate of 5.67,True,True,True
+27,SeekOps,2,Thursday 6/27,29,13:29:00,14:15:00,True,9.46,12.298000000000002,6.622,percent_0.30,,Totaled emission rate of 9.46,True,True,True
+28,SeekOps,2,Thursday 6/27,30,14:35:00,15:22:00,True,10.0,13.0,7.0,percent_0.30,,Totaled emission rate of 10,True,True,True
+29,SeekOps,2,Thursday 6/27,31,15:32:00,16:19:00,True,23.53,30.589000000000002,16.471,percent_0.30,,Totaled emission rate of 23.53,True,True,True
+30,SeekOps,2,Thursday 6/27,32,16:35:00,17:24:00,True,1.13,1.4689999999999999,0.7909999999999999,percent_0.30,,Totaled emission rate of 1.13,True,True,True
+31,SeekOps,2,Friday 6/28,33,09:00:00,09:47:00,True,2.12,2.7560000000000002,1.484,percent_0.30,,Totaled emission rate of 2.12,True,True,True
+32,SeekOps,2,Friday 6/28,34,10:10:00,10:56:00,False,,,,,,UAV not in air during this timeframe.,False,False,False
+33,SeekOps,2,Friday 6/28,35,11:02:00,11:49:00,True,6.8,8.84,4.76,percent_0.30,,Totaled emission rate of 6.8,True,True,True
+34,SeekOps,2,Friday 6/28,36,12:05:00,12:51:00,True,3.91,5.083,2.737,percent_0.30,,Totaled emission rate of 3.91,True,True,True

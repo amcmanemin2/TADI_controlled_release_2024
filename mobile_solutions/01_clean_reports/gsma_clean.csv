@@ -1,0 +1,41 @@
+,Operator,Week,DateOfSurvey,ReleaseID,SurveyStartTime,SurveyEndTime,QuantifiedPlume,EstimatedEmissionRate,EstimatedEmissionRateUpper,EstimatedEmissionRateLower,UncertaintyType,OperatorWindspeed,QCFLag,OperatorKeep,StanfordKeep,StrictQCKeep
+0,GSMA,1,2024-06-17,1,,,False,,,,,,Other drone team operating,False,False,False
+1,GSMA,1,2024-06-17,2,12:23:09,12:52:15,True,0.3,0.37,0.23,percent_0.24,2.9,,True,True,True
+2,GSMA,1,2024-06-17,3,,,False,,,,,,Other drone team operating,False,False,False
+3,GSMA,1,2024-06-17,4,14:20:11,14:28:45,True,7.3,10.22,4.38,percent_0.4,2.9,,True,True,True
+4,GSMA,1,2024-06-17,5,,,False,,,,,,Other drone team operating,False,False,False
+5,GSMA,1,2024-06-17,6,16:12:26,16:45:24,True,18.7,23.94,13.35,percent_0.28,3.0,,True,True,True
+6,GSMA,1,2024-06-17,7,,,False,,,,,,Other drone team operating,False,False,False
+7,GSMA,1,2024-06-18,8,09:10:12,09:38:24,True,18.0,24.97,11.05,percent_0.39,2.1,,True,True,True
+8,GSMA,1,2024-06-18,9,,,False,,,,,,Other drone team operating,False,False,False
+9,GSMA,1,2024-06-18,10,,,False,,,,,,Other drone team operating,False,False,False
+10,GSMA,1,2024-06-18,11,,,False,,,,,,Other drone team operating,False,False,False
+11,GSMA,1,2024-06-18,12,13:26:19,13:36:23,True,50.0,70.06,30.02,percent_0.4,2.1,,True,True,True
+12,GSMA,1,2024-06-18,13,,,False,,,,,,Other drone team operating,False,False,False
+13,GSMA,1,2024-06-18,14,15:17:12,15:32:14,True,0.98,1.26,0.7,percent_0.28,2.6,,True,True,True
+14,GSMA,1,2024-06-18,15,,,False,,,,,,Other drone team operating,False,False,False
+15,GSMA,1,2024-06-18,16,16:43:14,17:14:55,True,3.5,4.34,2.67,percent_0.24,2.1,,True,True,True
+16,GSMA,1,2024-06-19,17,,,False,,,,,,Other drone team operating,False,False,False
+17,GSMA,1,2024-06-19,18,10:05:28,10:15:22,True,1.12,1.57,0.67,percent_0.4,2.3,,True,True,True
+18,GSMA,1,2024-06-19,19,,,False,,,,,,Other drone team operating,False,False,False
+19,GSMA,1,2024-06-19,20,12:05:24,12:47:45,True,0.0,0.0,0.0,percent_nan,3.3,,True,True,True
+20,GSMA,1,2024-06-19,21,,,False,,,,,,Other drone team operating,False,False,False
+21,GSMA,1,2024-06-19,22,14:07:56,14:52:27,True,3.08,3.79,2.36,percent_0.23,2.8,,True,True,True
+22,GSMA,1,2024-06-19,23,,,False,,,,,,Other drone team operating,False,False,False
+23,GSMA,1,2024-06-19,24,16:15:10,16:51:08,True,6.75,8.32,5.19,percent_0.23,1.5,,True,True,True
+24,GSMA,1,2024-06-20,25,,,False,,,,,,Rain,False,False,False
+25,GSMA,1,2024-06-20,26,,,False,,,,,,Rain,False,False,False
+26,GSMA,1,2024-06-20,27,,,False,,,,,,Other drone team operating,False,False,False
+27,GSMA,1,2024-06-20,28,,,False,,,,,,Other drone team operating,False,False,False
+28,GSMA,1,2024-06-20,29,,,False,,,,,,Other drone team operating,False,False,False
+29,GSMA,1,2024-06-20,30,,,False,,,,,,Other drone team operating,False,False,False
+30,GSMA,1,2024-06-20,31,,,False,,,,,,Rain,False,False,False
+31,GSMA,1,2024-06-20,32,,,False,,,,,,Rain,False,False,False
+32,GSMA,1,2024-06-21,33,09:05:24,09:26:12,True,1.31,1.68,0.93,percent_0.29,2.1,,True,True,True
+33,GSMA,1,2024-06-21,34,,,False,,,,,,Other drone team operating,False,False,False
+34,GSMA,1,2024-06-21,35,15:30:21,16:06:32,False,0.0,0.0,0.0,,,Flight aborted due to the rain,False,False,True
+35,GSMA,1,2024-06-21,36,,,False,,,,,,Other drone team operating,False,False,False
+36,GSMA,1,2024-06-21,37,,,False,,,,,,Sensor switch,False,False,False
+37,GSMA,1,2024-06-21,38,,,False,,,,,,Other drone team operating,False,False,False
+38,GSMA,1,2024-06-21,39,15:30:21,16:06:32,True,15.6,19.99,11.16,percent_0.28,3.8,,True,True,True
+39,GSMA,1,2024-06-21,40,,,False,,,,,,Other drone team operating,False,False,False

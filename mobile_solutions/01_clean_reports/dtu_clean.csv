@@ -1,0 +1,41 @@
+,Operator,Week,DateOfSurvey,ReleaseID,SurveyStartTime,SurveyEndTime,QuantifiedPlume,EstimatedEmissionRate,EstimatedEmissionRateUpper,EstimatedEmissionRateLower,UncertaintyType,OperatorWindspeed,QCFLag,OperatorKeep,StanfordKeep,StrictQCKeep
+0,DTU,1,2024-06-17,1,11:09:00,11:43:00,True,31.664918523807735,35.00922985246198,28.320607195153496,Statistical: standard error of the mean,Wind information is not used in our calculations,,True,True,True
+1,DTU,1,2024-06-17,2,12:06:00,12:50:00,True,0.7552925774705674,0.784146677780383,0.7264384771607518,Statistical: standard error of the mean,,,True,True,True
+2,DTU,1,2024-06-17,3,13:09:00,13:50:00,True,27.156961222820883,29.761816778002604,24.55210566763916,Statistical: standard error of the mean,,,True,True,True
+3,DTU,1,2024-06-17,4,14:02:00,14:46:00,True,8.654186408506003,10.381002749758174,6.927370067253832,Statistical: standard error of the mean,,,True,True,True
+4,DTU,1,2024-06-17,5,15:03:00,15:40:00,True,1.5878737318725442,1.6906980780991396,1.4850493856459488,Statistical: standard error of the mean,,,True,True,True
+5,DTU,1,2024-06-17,6,16:06:00,16:41:00,True,20.39824042671646,21.927943199503396,18.868537653929522,Statistical: standard error of the mean,,,True,True,True
+6,DTU,1,2024-06-17,7,17:24:00,17:46:00,True,82.72489146789657,99.83837838559162,65.61140455020151,Statistical: standard error of the mean,,,True,True,True
+7,DTU,1,2024-06-18,8,09:09:00,09:49:00,True,41.32028197099735,45.70918729015743,36.93137665183727,Statistical: standard error of the mean,,,True,True,True
+8,DTU,1,2024-06-18,9,10:25:00,10:50:00,True,35.83213308458861,41.841322101789196,29.82294406738803,Statistical: standard error of the mean,,,True,True,True
+9,DTU,1,2024-06-18,10,11:06:00,11:37:00,True,4.981072169422325,5.7886096304434025,4.173534708401248,Statistical: standard error of the mean,,,True,True,True
+10,DTU,1,2024-06-18,11,12:03:00,12:45:00,True,9.569777464407558,9.976028110997035,9.16352681781808,Statistical: standard error of the mean,,,True,True,True
+11,DTU,1,2024-06-18,12,13:02:00,13:38:00,True,54.4125408986329,59.622399245440704,49.20268255182509,Statistical: standard error of the mean,,,True,True,True
+12,DTU,1,2024-06-18,13,14:07:00,14:48:00,True,3.753374582449809,4.452622107804732,3.054127057094885,Statistical: standard error of the mean,,,True,True,True
+13,DTU,1,2024-06-18,14,15:15:00,15:28:00,True,1.6348667631673572,1.8172518282896966,1.452481698045018,Statistical: standard error of the mean,,,True,True,True
+14,DTU,1,2024-06-18,15,15:45:00,16:10:00,True,178.29454081709767,201.14876718163285,155.4403144525625,Statistical: standard error of the mean,,,True,True,True
+15,DTU,1,2024-06-18,16,16:48:00,17:03:00,True,4.683004996204132,5.196274064645125,4.169735927763139,Statistical: standard error of the mean,,,True,True,True
+16,DTU,1,2024-06-19,17,09:03:00,09:44:00,True,20.879585249996016,24.1941003777654,17.565070122226633,Statistical: standard error of the mean,,,True,True,True
+17,DTU,1,2024-06-19,18,10:01:00,10:28:00,True,2.733906314080122,3.2022492646123126,2.2655633635479315,Statistical: standard error of the mean,,,True,True,True
+18,DTU,1,2024-06-19,19,11:04:00,11:40:00,True,101.529124755683,119.20924468222015,83.84900482914585,Statistical: standard error of the mean,,,True,True,True
+19,DTU,1,2024-06-19,20,12:00:00,12:47:00,True,0.0,0.0,0.0,,,Below detection limit,True,True,True
+20,DTU,1,2024-06-19,21,13:02:00,13:46:00,True,39.40509904217956,47.01372553336904,31.79647255099007,Statistical: standard error of the mean,,,True,True,True
+21,DTU,1,2024-06-19,22,14:29:00,14:37:00,True,10.09554380254751,12.548362858472384,7.642724746622637,Statistical: standard error of the mean,,,True,True,True
+22,DTU,1,2024-06-19,23,15:06:00,15:46:00,True,101.39265929643005,117.41860490470927,85.36671368815084,Statistical: standard error of the mean,,,True,True,True
+23,DTU,1,2024-06-19,24,16:08:00,16:29:00,True,9.711351338613655,12.218811472188307,7.203891205039002,Statistical: standard error of the mean,,,True,True,True
+24,DTU,1,2024-06-20,25,09:24:00,09:35:00,True,10.292221141224704,11.961086871444415,8.623355411004994,Statistical: standard error of the mean,,,True,True,True
+25,DTU,1,2024-06-20,26,10:06:00,10:34:00,True,22.051202048786,23.245849837594594,20.856554259977404,Statistical: standard error of the mean,,,True,True,True
+26,DTU,1,2024-06-20,27,11:16:00,11:38:00,True,20.714030317827845,26.56808715483448,14.85997348082121,Statistical: standard error of the mean,,,True,True,True
+27,DTU,1,2024-06-20,28,12:08:00,12:37:00,True,37.68094439843516,43.13641932748324,32.22546946938708,Statistical: standard error of the mean,,,True,True,True
+28,DTU,1,2024-06-20,29,13:10:00,13:45:00,True,5.105282515252489,5.900819189474558,4.309745841030421,Statistical: standard error of the mean,,,True,True,True
+29,DTU,1,2024-06-20,30,14:23:00,14:45:00,True,23.92105279903308,28.65425773683614,19.187847861230022,Statistical: standard error of the mean,,,True,True,True
+30,DTU,1,2024-06-20,31,15:31:00,15:45:00,True,67.2058822696267,75.85549340785388,58.55627113139951,Statistical: standard error of the mean,,,True,True,True
+31,DTU,1,2024-06-20,32,16:25:00,16:37:00,True,14.420747888976267,14.689534493645187,14.151961284307347,Statistical: standard error of the mean,,,True,True,True
+32,DTU,1,2024-06-21,33,09:19:00,09:29:00,True,1.4410713529953323,1.5997683189524525,1.282374387038212,Statistical: standard error of the mean,,,True,True,True
+33,DTU,1,2024-06-21,34,10:08:00,10:18:00,True,50.67797409964101,59.65824190194131,41.697706297340716,Statistical: standard error of the mean,,,True,True,True
+34,DTU,1,2024-06-21,35,11:04:00,11:43:00,True,6.151123070336854,7.423735984294592,4.878510156379115,Statistical: standard error of the mean,,,True,True,True
+35,DTU,1,2024-06-21,36,12:10:00,13:04:00,True,0.0,0.0,0.0,,,Below detection limit,True,True,True
+36,DTU,1,2024-06-21,37,13:21:00,13:35:00,True,43.48571579464031,55.160781194219105,31.810650395061522,Statistical: standard error of the mean,,,True,True,True
+37,DTU,1,2024-06-21,38,14:12:00,15:05:00,True,0.0,0.0,0.0,,,Below detection limit,True,True,True
+38,DTU,1,2024-06-21,39,15:19:00,15:45:00,True,17.200652568917345,19.010897747127565,15.390407390707127,Statistical: standard error of the mean,,,True,True,True
+39,DTU,1,2024-06-21,40,16:30:00,16:44:00,True,3.3587726836895,4.301048152691823,2.416497214687177,Statistical: standard error of the mean,,,True,True,True

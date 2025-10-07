@@ -1,0 +1,38 @@
+Operator,Week,DateOfSurvey,ReleaseID,SurveyStartTime,SurveyEndTime,QuantifiedPlume,EstimatedEmissionRate,EstimatedEmissionRateUpper,EstimatedEmissionRateLower,UncertaintyType,OperatorWindspeed,QCFLag,OperatorKeep,StanfordKeep,StrictQCKeep
+FAAM,3,2024-09-09,1,11:02:00,11:50:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-09,2,12:05:00,12:52:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-09,3,13:24:00,14:16:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-09,4,14:30:00,15:20:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-09,5,15:26:00,16:15:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-09,6,16:43:00,17:37:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-10,7,08:45:00,09:31:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-10,8,09:45:00,10:31:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-10,9,10:40:00,11:26:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-10,10,11:45:00,12:31:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-10,11,12:45:00,13:36:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-10,12,13:44:00,14:30:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-10,13,14:44:00,15:30:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-10,14,15:44:00,16:30:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-10,15,16:46:00,17:36:00,,,,,,,not able to fly,False,False,False
+FAAM,3,2024-09-11,16,08:35:00,09:22:00,,,,,,,"not able to fly, transit from UK",False,False,False
+FAAM,3,2024-09-11,17,09:34:00,10:21:00,,,,,,,"not able to fly, transit from UK",False,False,False
+FAAM,3,2024-09-11,18,10:38:00,11:25:00,,,,,,,"not able to fly, transit from UK",False,False,False
+FAAM,3,2024-09-11,19,11:34:00,12:22:00,,,,,,,"not able to fly, transit from UK",False,False,False
+FAAM,3,2024-09-11,20,12:38:00,13:25:00,,,,,,,"not able to fly, transit from UK",False,False,False
+FAAM,3,2024-09-11,21,13:34:00,14:22:00,,,,,,,"not able to fly, transit from UK",False,False,False
+FAAM,3,2024-09-11,22,14:34:00,15:20:00,,,,,,,"not able to fly, transit from UK",False,False,False
+FAAM,3,2024-09-11,23,15:34:00,16:22:00,,,,,,,"not able to fly, transit from UK",False,False,False
+FAAM,3,2024-09-11,24,16:34:00,17:23:00,,,,,,,"not able to fly, transit from UK",False,False,False
+FAAM,3,2024-09-12,25,09:16:00,10:02:00,,,,,,,not able to fly due to low clouds,False,False,False
+FAAM,3,2024-09-12,26,10:06:00,10:54:00,,,,,,,not able to fly due to low clouds,False,False,False
+FAAM,3,2024-09-12,27,11:07:00,11:55:00,,,,,,,not able to fly due to low clouds,False,False,False
+FAAM,3,2024-09-12,28,12:00:00,12:45:00,,,,,,,not able to fly due to low clouds,False,False,False
+FAAM,3,2024-09-12,29,13:28:00,14:15:00,False,0.0,0.0,0.0,,,late take-off (14:03:39),False,False,True
+FAAM,3,2024-09-12,30,14:31:00,15:17:00,False,0.0,0.0,0.0,,,not enough time for data analysis; poor visibility and low clouds also prevented part of this survey,False,False,True
+FAAM,3,2024-09-12,31,15:28:00,16:15:00,True,302.0,522.0,82.0, 1 SD,2.12,although some concerns about marginal weather conditions (low winds),True,True,True
+FAAM,3,2024-09-12,32,16:30:00,17:15:00,False,0.0,0.0,0.0,,,not enough time for data analysis,False,False,True
+FAAM,3,2024-09-13,33,08:45:00,09:32:00,,,,,,,"not able to fly, return transit to UK",False,False,False
+FAAM,3,2024-09-13,34,09:45:00,10:35:00,,,,,,,"not able to fly, return transit to UK",False,False,False
+FAAM,3,2024-09-13,35,10:45:00,11:31:00,,,,,,,"not able to fly, return transit to UK",False,False,False
+FAAM,3,2024-09-13,36,11:45:00,12:33:00,,,,,,,"not able to fly, return transit to UK",False,False,False
+FAAM,3,2024-09-13,37,12:45:00,13:34:00,,,,,,,"not able to fly, return transit to UK",False,False,False

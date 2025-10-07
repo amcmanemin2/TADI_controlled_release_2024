@@ -1,0 +1,36 @@
+,Operator,Week,DateOfSurvey,ReleaseID,SurveyStartTime,SurveyEndTime,QuantifiedPlume,EstimatedEmissionRate,EstimatedEmissionRateUpper,EstimatedEmissionRateLower,UncertaintyType,OperatorWindspeed,QCFLag,OperatorKeep,StanfordKeep,StrictQCKeep
+0,UHEI,2,2024-06-24,1,11:08:00,11:55:00,False,0.0,0.0,0.0,standard error of the median,1.68,,False,False,True
+1,UHEI,2,2024-06-24,2,12:10:00,12:46:00,True,105.55,127.63,83.47,standard error of the median,2.14,,True,True,True
+2,UHEI,2,2024-06-24,3,13:02:00,13:47:00,True,4.76,6.63,2.8899999999999997,standard error of the median,2.26,,True,True,True
+3,UHEI,2,2024-06-24,4,14:03:00,14:49:00,True,0.63,0.73,0.53,standard error of the median,2.3,,True,True,True
+4,UHEI,2,2024-06-24,5,15:05:00,15:50:00,True,63.84,71.68,56.0,standard error of the median,2.49,,True,True,True
+5,UHEI,2,2024-06-24,6,16:05:00,16:51:00,False,0.0,0.0,0.0,standard error of the median,1.76,,False,False,True
+6,UHEI,2,2024-06-24,7,17:00:00,17:49:00,False,0.0,0.0,0.0,standard error of the median,2.49,,False,False,True
+7,UHEI,2,2024-06-25,8,09:02:00,09:48:00,False,0.0,0.0,0.0,standard error of the median,1.39,,False,False,True
+8,UHEI,2,2024-06-25,9,10:03:00,10:49:00,False,0.0,0.0,0.0,standard error of the median,1.56,,False,False,True
+9,UHEI,2,2024-06-25,10,11:05:00,11:51:00,False,0.0,0.0,0.0,standard error of the median,1.85,,False,False,True
+10,UHEI,2,2024-06-25,11,12:06:00,12:52:00,True,25.73,25.8,25.66,standard error of the median,2.47,,True,True,True
+11,UHEI,2,2024-06-25,12,13:35:00,14:21:00,True,47.21,56.36,38.06,standard error of the median,2.78,,True,True,True
+12,UHEI,2,2024-06-25,13,14:36:00,15:22:00,True,22.99,25.979999999999997,20.0,standard error of the median,2.24,,True,True,True
+13,UHEI,2,2024-06-25,14,15:35:00,16:21:00,True,57.82,72.91,42.730000000000004,standard error of the median,2.55,,True,True,True
+14,UHEI,2,2024-06-25,15,16:40:00,17:24:00,True,2.63,3.06,2.1999999999999997,standard error of the median,2.53,,True,True,True
+15,UHEI,2,2024-06-26,16,08:55:00,09:43:00,False,0.0,0.0,0.0,standard error of the median,0.8,,False,False,True
+16,UHEI,2,2024-06-26,17,10:01:00,10:51:00,False,0.0,0.0,0.0,standard error of the median,1.12,,False,False,True
+17,UHEI,2,2024-06-26,18,11:00:00,11:50:00,False,0.0,0.0,0.0,standard error of the median,1.34,,False,False,True
+18,UHEI,2,2024-06-26,19,,,False,,,,skipped,skipped,car not availible,False,False,False
+19,UHEI,2,2024-06-26,20,14:02:00,14:45:00,True,0.44,0.5,0.38,standard error of the median,1.7,,True,True,True
+20,UHEI,2,2024-06-26,21,15:03:00,15:50:00,True,31.1,35.4,26.8,standard error of the median,2.11,,True,True,True
+21,UHEI,2,2024-06-26,22,16:05:00,16:50:00,True,5.43,7.1899999999999995,3.67,standard error of the median,2.34,,True,True,True
+22,UHEI,2,2024-06-26,23,17:04:00,17:47:00,True,0.57,0.73,0.4099999999999999,standard error of the median,2.87,,True,True,True
+23,UHEI,2,2024-06-27,24,08:56:00,08:44:00,False,0.0,0.0,0.0,standard error of the median,1.54,,False,False,True
+24,UHEI,2,2024-06-27,25,10:10:00,10:52:00,True,22.6,31.150000000000002,14.05,standard error of the median,3.18,,True,True,True
+25,UHEI,2,2024-06-27,26,11:18:00,11:57:00,True,3.04,4.01,2.0700000000000003,error propagation,2.65,,True,True,True
+26,UHEI,2,2024-06-27,27,12:09:00,12:55:00,False,0.0,0.0,0.0,error propagation,1.97,,False,False,True
+27,UHEI,2,2024-06-27,28,13:33:00,14:16:00,True,16.38,20.82,11.939999999999998,standard error of the median,3.26,,True,True,True
+28,UHEI,2,2024-06-27,29,14:36:00,15:21:00,True,27.94,33.45,22.43,standard error of the median,4.42,,True,True,True
+29,UHEI,2,2024-06-27,30,15:35:00,16:20:00,True,91.95,111.30000000000001,72.6,standard error of the median,3.87,,True,True,True
+30,UHEI,2,2024-06-27,31,16:39:00,17:25:00,True,1.06,1.33,0.79,error propagation,2.37,,True,True,True
+31,UHEI,2,2024-06-28,32,09:00:00,09:47:00,False,0.0,0.0,0.0,standard error of the median,1.6,,False,False,True
+32,UHEI,2,2024-06-28,33,10:10:00,10:56:00,False,0.0,0.0,0.0,standard error of the median,1.41,,False,False,True
+33,UHEI,2,2024-06-28,34,11:02:00,11:49:00,False,0.0,0.0,0.0,standard error of the median,0.99,,False,False,True
+34,UHEI,2,2024-06-28,35,12:05:00,12:51:00,False,0.0,0.0,0.0,standard error of the median,1.41,,False,False,True

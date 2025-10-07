@@ -1,0 +1,153 @@
+index,Operator,Week,DateOfSurvey,WeeklyReleaseID,SurveyStartTime,SurveyEndTime,QuantifiedPlume,EstimatedEmissionRate,EstimatedEmissionRateUpper,EstimatedEmissionRateLower,UncertaintyType,OperatorWindspeed,QCFLag,OperatorKeep,StanfordKeep,StrictQCKeep,ReleaseID
+0,GHGSat,1,2024-06-17 00:00:00,1,11:07:00,11:53:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,1
+1,GHGSat,1,2024-06-17 00:00:00,2,12:05:00,12:51:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,2
+2,GHGSat,1,2024-06-17 00:00:00,3,13:05:00,13:59:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,3
+3,GHGSat,1,2024-06-17 00:00:00,4,14:00:00,14:48:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,4
+4,GHGSat,1,2024-06-17 00:00:00,5,15:00:00,15:46:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,5
+5,GHGSat,1,2024-06-17 00:00:00,6,16:00:00,16:47:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,6
+6,GHGSat,1,2024-06-17 00:00:00,7,16:57:00,17:58:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,7
+7,GHGSat,1,2024-06-18 00:00:00,8,09:08:00,09:54:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,8
+8,GHGSat,1,2024-06-18 00:00:00,9,10:05:00,10:51:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,9
+9,GHGSat,1,2024-06-18 00:00:00,10,11:03:00,11:49:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,10
+10,GHGSat,1,2024-06-18 00:00:00,11,12:00:00,12:46:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,11
+11,GHGSat,1,2024-06-18 00:00:00,12,13:00:00,13:46:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,12
+12,GHGSat,1,2024-06-18 00:00:00,13,14:04:00,14:51:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,13
+13,GHGSat,1,2024-06-18 00:00:00,14,15:05:00,15:33:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,14
+14,GHGSat,1,2024-06-18 00:00:00,15,16:00:36,16:00:36,False,0.0,0.0,0.0,,"(np.float64(nan),)",Bad weather – Cloudy,False,False,True,15
+15,GHGSat,1,2024-06-18 00:00:00,16,16:41:00,17:35:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,16
+16,GHGSat,1,2024-06-19 00:00:00,17,09:00:00,09:47:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,17
+17,GHGSat,1,2024-06-19 00:00:00,18,10:01:00,10:49:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,18
+18,GHGSat,1,2024-06-19 00:00:00,19,11:01:00,11:48:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,19
+19,GHGSat,1,2024-06-19 00:00:00,20,12:00:00,12:47:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,20
+20,GHGSat,1,2024-06-19 00:00:00,21,13:02:00,13:48:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,21
+21,GHGSat,1,2024-06-19 00:00:00,22,14:01:00,14:50:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,22
+22,GHGSat,1,2024-06-19 00:00:00,23,15:01:00,15:48:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,23
+23,GHGSat,1,2024-06-19 00:00:00,24,16:02:00,16:50:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,24
+24,GHGSat,1,2024-06-20 00:00:00,25,09:02:00,09:47:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,25
+25,GHGSat,1,2024-06-20 00:00:00,26,10:03:00,10:49:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,26
+26,GHGSat,1,2024-06-20 00:00:00,27,11:00:00,11:51:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,27
+27,GHGSat,1,2024-06-20 00:00:00,28,12:03:00,12:51:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,28
+28,GHGSat,1,2024-06-20 00:00:00,29,13:07:00,13:53:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,29
+29,GHGSat,1,2024-06-20 00:00:00,30,14:08:00,14:56:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,30
+30,GHGSat,1,2024-06-20 00:00:00,31,15:58:04,15:58:04,False,0.0,0.0,0.0,,"(np.float64(nan),)",Bad weather – Cloudy,False,False,True,31
+31,GHGSat,1,2024-06-20 00:00:00,32,16:18:00,17:05:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,32
+32,GHGSat,1,2024-06-21 00:00:00,33,09:01:00,09:47:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,33
+33,GHGSat,1,2024-06-21 00:00:00,34,10:02:00,10:49:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,34
+34,GHGSat,1,2024-06-21 00:00:00,35,11:03:00,11:56:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,35
+35,GHGSat,1,2024-06-21 00:00:00,36,12:10:00,13:04:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,36
+36,GHGSat,1,2024-06-21 00:00:00,37,13:13:00,14:02:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,37
+37,GHGSat,1,2024-06-21 00:00:00,38,14:12:00,15:05:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,38
+38,GHGSat,1,2024-06-21 00:00:00,39,15:15:00,16:06:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,39
+39,GHGSat,1,2024-06-21 00:00:00,40,16:24:00,17:10:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,40
+0,GHGSat,2,2024-06-24 00:00:00,1,11:08:00,11:55:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,41
+1,GHGSat,2,,2,12:14:14,12:14:14,True,106.0,156.0,56.0,1 sigma,"(np.float64(2.57),)","Partially cloudy, area over site clear",True,True,True,42
+2,GHGSat,2,,3,13:01:00,13:45:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,43
+3,GHGSat,2,,4,14:01:00,14:48:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,44
+4,GHGSat,2,,5,15:01:00,15:53:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,45
+5,GHGSat,2,,6,16:05:00,16:51:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,46
+6,GHGSat,2,,7,17:00:00,17:49:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,47
+7,GHGSat,2,2024-06-25 00:00:00,8,09:02:00,09:48:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,48
+8,GHGSat,2,,9,10:03:00,10:49:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,49
+9,GHGSat,2,,10,11:05:00,11:51:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,50
+10,GHGSat,2,,11,12:05:00,12:51:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,51
+11,GHGSat,2,,12,13:35:00,14:21:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,52
+12,GHGSat,2,,13,14:35:00,15:22:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,53
+13,GHGSat,2,,14,15:33:00,16:19:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,54
+14,GHGSat,2,,15,16:35:00,17:33:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,55
+15,GHGSat,2,2024-06-26 00:00:00,16,08:55:00,09:43:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,56
+16,GHGSat,2,,17,10:01:00,10:51:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,57
+17,GHGSat,2,,18,11:00:00,11:50:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,58
+18,GHGSat,2,,19,13:03:00,13:51:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,59
+19,GHGSat,2,,20,14:00:00,14:51:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,60
+20,GHGSat,2,,21,15:01:00,15:49:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,61
+21,GHGSat,2,,22,16:03:00,16:50:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,62
+22,GHGSat,2,,23,17:01:00,17:47:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,63
+23,GHGSat,2,2024-06-27 00:00:00,24,08:56:00,08:44:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,64
+24,GHGSat,2,,25,10:06:00,10:55:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,65
+25,GHGSat,2,,26,11:06:00,11:56:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,66
+26,GHGSat,2,,27,12:09:00,12:55:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,67
+27,GHGSat,2,,28,13:29:00,14:15:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,68
+28,GHGSat,2,,29,14:35:00,15:22:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,69
+29,GHGSat,2,,30,15:59:58,15:59:58,False,0.0,0.0,0.0,,"(np.float64(nan),)",Bad weather – Cloudy,False,False,True,70
+30,GHGSat,2,,31,16:35:00,17:24:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,71
+31,GHGSat,2,2024-06-28 00:00:00,32,09:00:00,09:47:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,72
+32,GHGSat,2,,33,10:10:00,10:56:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,73
+33,GHGSat,2,,34,11:17:35,11:17:35,False,0.0,0.0,0.0,,"(np.float64(nan),)",Bad weather – Cloudy,False,False,True,74
+34,GHGSat,2,,35,12:05:00,12:51:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,75
+0,GHGSat,3,2024-09-09 00:00:00,1,11:02:00,11:50:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,76
+1,GHGSat,3,2024-09-09 00:00:00,2,12:05:00,12:52:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,77
+2,GHGSat,3,2024-09-09 00:00:00,3,13:24:00,14:16:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,78
+3,GHGSat,3,2024-09-09 00:00:00,4,14:30:00,15:20:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,79
+4,GHGSat,3,2024-09-09 00:00:00,5,15:26:00,16:15:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,80
+5,GHGSat,3,2024-09-09 00:00:00,6,16:43:00,17:37:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,81
+6,GHGSat,3,2024-09-10 00:00:00,7,08:45:00,09:31:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,82
+7,GHGSat,3,2024-09-10 00:00:00,8,09:45:00,10:31:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,83
+8,GHGSat,3,2024-09-10 00:00:00,9,10:40:00,11:26:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,84
+9,GHGSat,3,2024-09-10 00:00:00,10,12:12:00,12:12:00,False,0.0,0.0,0.0,,"(np.float64(nan),)",Bad weather – Cloudy,False,False,True,85
+10,GHGSat,3,2024-09-10 00:00:00,11,12:45:00,13:36:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,86
+11,GHGSat,3,2024-09-10 00:00:00,12,13:44:00,14:30:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,87
+12,GHGSat,3,2024-09-10 00:00:00,13,14:44:00,15:30:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,88
+13,GHGSat,3,2024-09-10 00:00:00,14,15:44:00,16:30:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,89
+14,GHGSat,3,2024-09-10 00:00:00,15,16:46:00,17:36:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,90
+15,GHGSat,3,2024-09-11 00:00:00,16,08:35:00,09:22:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,91
+16,GHGSat,3,2024-09-11 00:00:00,17,09:34:00,10:21:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,92
+17,GHGSat,3,2024-09-11 00:00:00,18,10:38:00,11:25:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,93
+18,GHGSat,3,2024-09-11 00:00:00,19,11:34:00,12:22:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,94
+19,GHGSat,3,2024-09-11 00:00:00,20,12:38:00,13:25:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,95
+20,GHGSat,3,2024-09-11 00:00:00,21,13:34:00,14:22:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,96
+21,GHGSat,3,2024-09-11 00:00:00,22,14:34:00,15:20:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,97
+22,GHGSat,3,2024-09-11 00:00:00,23,15:34:00,16:22:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,98
+23,GHGSat,3,2024-09-11 00:00:00,24,16:34:00,17:23:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,99
+24,GHGSat,3,2024-09-12 00:00:00,25,09:16:00,10:02:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,100
+25,GHGSat,3,2024-09-12 00:00:00,26,10:06:00,10:54:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,101
+26,GHGSat,3,2024-09-12 00:00:00,27,11:07:00,11:55:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,102
+27,GHGSat,3,2024-09-12 00:00:00,28,12:15:56,12:15:56,False,0.0,0.0,0.0,,"(np.float64(nan),)",Bad weather – Cloudy,False,False,True,103
+28,GHGSat,3,2024-09-12 00:00:00,29,13:28:00,14:15:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,104
+29,GHGSat,3,2024-09-12 00:00:00,30,14:31:00,15:17:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,105
+30,GHGSat,3,2024-09-12 00:00:00,31,16:10:21,16:10:21,False,0.0,0.0,0.0,,"(np.float64(nan),)",Bad weather – Cloudy,False,False,True,106
+31,GHGSat,3,2024-09-12 00:00:00,32,16:30:00,17:15:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,107
+32,GHGSat,3,2024-09-13 00:00:00,33,08:45:00,09:32:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,108
+33,GHGSat,3,2024-09-13 00:00:00,34,09:45:00,10:35:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,109
+34,GHGSat,3,2024-09-13 00:00:00,35,10:45:00,11:31:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,110
+35,GHGSat,3,2024-09-13 00:00:00,36,12:17:41,12:17:41,False,0.0,0.0,0.0,,"(np.float64(nan),)",Bad weather – Cloudy,False,False,True,111
+36,GHGSat,3,2024-09-13 00:00:00,37,12:45:00,13:34:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,112
+0,GHGSat,4,Monday 9/16,1,11:00:00,11:46:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,113
+1,GHGSat,4,Monday 9/16,2,11:59:00,12:47:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,114
+2,GHGSat,4,Monday 9/16,3,12:59:00,13:45:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,115
+3,GHGSat,4,Monday 9/16,4,13:59:00,14:46:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,116
+4,GHGSat,4,Monday 9/16,5,14:59:00,15:45:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,117
+5,GHGSat,4,Monday 9/16,6,15:59:00,16:45:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,118
+6,GHGSat,4,Tuesday 9/17,7,09:00:00,09:46:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,119
+7,GHGSat,4,Tuesday 9/17,8,09:59:00,10:46:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,120
+8,GHGSat,4,Tuesday 9/17,9,10:59:00,11:50:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,121
+9,GHGSat,4,Tuesday 9/17,10,11:59:00,12:49:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,122
+10,GHGSat,4,Tuesday 9/17,11,13:00:00,13:46:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,123
+11,GHGSat,4,Tuesday 9/17,12,13:58:00,14:45:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,124
+12,GHGSat,4,Tuesday 9/17,13,14:58:00,15:44:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,125
+13,GHGSat,4,Tuesday 9/17,14,16:06:39,16:06:39,False,0.0,0.0,0.0,,"(np.float64(nan),)",Bad weather – Cloudy,False,False,True,126
+14,GHGSat,4,Wednesday 9/18,15,08:51:00,09:37:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,127
+15,GHGSat,4,Wednesday 9/18,16,09:44:00,10:31:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,128
+16,GHGSat,4,Wednesday 9/18,17,10:45:00,11:31:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,129
+17,GHGSat,4,Wednesday 9/18,18,11:44:00,12:33:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,130
+18,GHGSat,4,Wednesday 9/18,19,12:45:00,13:25:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,131
+19,GHGSat,4,Wednesday 9/18,20,13:30:00,14:16:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,132
+20,GHGSat,4,Wednesday 9/18,21,14:29:00,15:16:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,133
+21,GHGSat,4,Wednesday 9/18,22,16:18:10,16:18:10,False,0.0,0.0,0.0,,"(np.float64(nan),)",Bad weather – Cloudy,False,False,True,134
+22,GHGSat,4,Wednesday 9/18,23,16:31:00,17:19:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,135
+23,GHGSat,4,Thursday 9/19,24,08:45:00,09:33:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,136
+24,GHGSat,4,Thursday 9/19,25,09:45:00,10:31:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,137
+25,GHGSat,4,Thursday 9/19,26,10:44:00,11:32:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,138
+26,GHGSat,4,Thursday 9/19,27,11:44:00,12:31:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,139
+27,GHGSat,4,Thursday 9/19,28,12:44:00,13:32:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,140
+28,GHGSat,4,Thursday 9/19,29,13:46:00,14:34:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,141
+29,GHGSat,4,Thursday 9/19,30,14:44:00,15:31:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,142
+30,GHGSat,4,Thursday 9/19,31,15:44:00,16:34:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,143
+31,GHGSat,4,Thursday 9/19,32,16:44:00,17:38:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,144
+32,GHGSat,4,Friday 9/20,33,08:45:00,09:31:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,145
+33,GHGSat,4,Friday 9/20,34,09:45:00,10:34:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,146
+34,GHGSat,4,Friday 9/20,35,10:45:00,11:34:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,147
+35,GHGSat,4,Friday 9/20,36,11:46:00,12:33:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,148
+36,GHGSat,4,Friday 9/20,37,12:47:00,13:33:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,149
+37,GHGSat,4,Friday 9/20,38,13:51:00,14:30:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,150
+38,GHGSat,4,Friday 9/20,39,14:32:00,15:32:00,False,0.0,0.0,0.0,,,Satellite not tasked. We did not agree to task the satellite at this time.,False,False,False,151
+39,GHGSat,4,Friday 9/20,40,16:13:03,16:13:03,False,0.0,0.0,0.0,,"(np.float64(nan),)",Bad weather – Cloudy,False,False,True,152
